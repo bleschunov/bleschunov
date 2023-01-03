@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bleschunov
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Spring and Hibernate
 - 💞️ I’m looking for a job or projects
 - 📫 Text me on [Telegram](t.me/dmitrybleschunov)
