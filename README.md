@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @bleschunov
-- 👀 I’m interested in Java Development
 - 💞️ I’m looking for a job or projects
 - 📫 Text me on [Telegram](t.me/dmitrybleschunov)
