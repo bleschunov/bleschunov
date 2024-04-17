@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @bleschunov
-- 💞️ I’m looking for a job or projects
-- 📫 Text me on [Telegram](t.me/dmitrybleschunov)
+- Разработчик с опытом проектирования и создания enterprise—приложений для крупнейшего застройщика РФ
+- Буду рад поучаствовать в интересном проекте в качестве Backend Python Developer
+- Пиши в Телеграм: [t.me/dmitrybleschunov](https://t.me/dmitrybleschunov)
