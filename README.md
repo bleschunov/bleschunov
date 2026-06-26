@@ -1,5 +1,9 @@
-Python разработчик с 3 годами коммерческого опыта. Есть опыт работы с асинхронной микросервисной архитектурой [asyncio, микросервисы]. Умею писать эффективные SQL запросы и оптимизировать неэффективные.
+🤖 I build Python backends for AI-driven products — chatbots, voice agents, and LLM-powered workflows that run in production.
 
-Работал в командах от 2 до 10 человек по методологии Agile. Умею собирать требования к задаче, оценивать сроки, подсвечивать риски и презентовать результат как команде, так и заказчику. В дополнение к знаниям экосистемы Python, понимаю, как работают большие нейронные сети [LLM, GPT, Mistral и т. д.], могу настраивать интеграции с ними и использовать их в проекте. 
+🚀 Over the past three years I've worked on platforms where latency, reliability, and integrations actually matter. At Actum.cx I've integrated 7+ ASR/TTS providers, built analytics pipelines with GraphQL APIs, added communication channels like MS Exchange, and connected multiple AI tools to demonstrate real agent capabilities to clients. Before that at WeDo I worked on semantic search and SQL generation with LLMs, and trained a regression model that significantly improved classifier accuracy.
 
-В свободное время интересуюсь методологией разработки и DevOps, чтобы уметь делать свою работу и работу коллег эффективнее.
+🏗️ I tend to think in systems: how services talk to each other, where caches belong, how to decouple things so one change doesn't ripple everywhere. I'm comfortable owning a feature end-to-end — from scoping and estimation to shipping and explaining the result to stakeholders.
+
+🛠️ Stack: Python (asyncio), FastAPI, PostgreSQL, ClickHouse, RabbitMQ, Redis, Docker, Kubernetes, GraphQL, SQLAlchemy, Alembic, Grafana
+
+🚴 Interests: distributed systems, cycling
