@@ -1,3 +1,3 @@
-Backend engineer with full-cycle product development experience and a track record of building and scaling systems at high load (2M+ conversations/month). Looking to bring that experience into a larger engineering organization with established processes and more complex systems.
+Fullstack engineer, mostly backend. I write Python and FastAPI on the server and React with TypeScript on the client. For the last two years I've worked on a multi-tenant chatbot platform with 3M+ conversations a month. I designed new services there, connected external speech providers and messaging channels, and built forms that render from a JSON Schema the backend sends for each provider, so adding a provider doesn't mean writing a new form by hand. I'm looking for a product team where I can own a feature across the database, the API and the UI.
 
 Thanks for visiting my account! I am always available at d.bleshchunov@gmail.com :)
